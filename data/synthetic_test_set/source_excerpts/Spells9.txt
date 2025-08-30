@@ -1,0 +1,207 @@
+Jump
+1st-level transmutation
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a grasshopper’s hind leg)
+Duration: 1 minute You touch a creature. The creature’s jump distance is tripled until the spell ends.
+
+Knock
+2nd-level transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: V
+Duration: Instantaneous Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access.  A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.
+If you choose a target that is held shut with arcane lock
+, that spell is suppressed for 10 minutes, during which time the target can be opened and shut normally.
+When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.
+
+Legend Lore
+5th-level divination
+Casting Time:10 minutes
+Range:Self
+Components:V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)
+Duration:InstantaneousName or describe a person, place, or object. The spell brings to your mind a brief summary of the significant
+lore about the thing you named. The lore might consist of current tales, forgotten stories, or even secret lore that has never been widely known. If the thing you named isn’t of legendary importance, you gain no information. The more information you already have about the thing, the more precise and detailed the information you receive is.
+The information you learn is accurate but might be couched in figurative language. For example, if you have a mysterious magic axe on hand, the spell might yield this information: “Woe to the evildoer whose hand touches the axe, for even the haft slices the hand of the evil ones. Only a true Child of Stone, lover and beloved of Moradin, may awaken the true powers of the axe, and only with the sacred word
+Rudnoggon the lips.”
+
+Lesser Restoration
+2nd-level abjuration
+Casting Time:1 action
+Range:Touch
+Components:V, S
+Duration: InstantaneousYou touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+
+Levitate
+2nd-level transmutation
+Casting Time:1 action
+Range:60 feet
+Components: V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)
+Duration: Concentration, up to 10 minutes One creature or object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.  The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target’s altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell’s range.  When the spell ends, the target floats gently to the ground if it is still aloft.
+
+Light
+Evocation cantrip
+Casting Time: 1 action
+Range: Touch
+Components: V, M (a firefly or phosphorescent moss)
+Duration: 1 hour You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.  If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
+
+Lightning Bolt
+3rd-level evocation
+Casting Time: 1 action
+Range: Self (100-foot line)
+Components: V, S, M (a bit of fur and a rod of amber, crystal, or glass)
+Duration: Instantaneous A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one.
+The lightning ignites flammable objects in the area that aren’t being worn or carried.
+
+At Higher Levels.When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+
+Locate Animals or Plants
+2nd-level divination (ritual)
+Casting Time:1 action
+Range:Self
+Components:V, S, M (a bit of fur from a bloodhound)
+Duration:InstantaneousDescribe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
+
+Locate Creature
+4th-level divination
+Casting Time:1 action
+Range:Self
+Components:V, S, M (a bit of fur from a bloodhound)
+Duration:Concentration, up to 1 hourDescribe or name a creature that is familiar to you. You sense the direction to the creature’s location, as long as that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
+The spell can locate a specific creature known to you, or the nearest creature of a specific kind (such as a human or a unicorn), so long as you have seen such a creature up close-within 30 feet-at least once. If the creature you described or named is in a different form, such as being under the effects of a
+polymorphspell, this spell doesn’t locate the creature.
+This spell can’t locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.
+
+Locate Object
+2nd-level divination
+Casting Time:1 action
+Range:Self
+Components:V, S, M (a forked twig)
+Duration:Concentration, up to 10 minutes
+Describe or name an object that is familiar to you. You sense the direction to the object’s location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.  The spell can locate a specific object known to you, as long as you have seen it up close-within 30 feet-at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.  This spell can’t locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
+
+Longstrider
+1st-level transmutation
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a pinch of dirt)
+Duration: 1 hour You touch a creature. The target’s speed increases by 10 feet until the spell ends.
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+
+Mage Armor
+1st-level abjuration
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a piece of cured leather)
+Duration: 8 hours You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s base AC becomes 13 +its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+
+Mage Hand
+Conjuration cantrip
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
+You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
+The hand can’t attack, activate magic items, or carry more than 10 pounds.
+
+Magic Circle
+3rd-level abjuration
+Casting Time:1 minute
+Range:10 feet
+Components:V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)
+Duration:1 hourYou create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.
+Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or undead.
+The circle affects a creature of the chosen type in the following ways:
+•The creature can’t willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
+•The creature has disadvantage on attack rolls against targets within the cylinder.
+•Targets within the cylinder can’t be charmed,frightened, or possessed by the creature.When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
+At Higher Levels.When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
+
+Magic Jar
+6th-level necromancy
+Casting Time:1 minute
+Range:Self
+Components:V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)
+Duration:Until dispelled
+Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell’s material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container’s space. You can’t move or use reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a humanoids body.  You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a protection from evil and good or magic circlespell can’t be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target’s body, and the target’s soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can’t attempt to possess it again for 24 hours.  Once you possess a creature’s body, you control it. Your game statistics are replaced by the statistics of the creature, though you retain your alignment and your Intelligence, Wisdom, and Charisma scores. You retain the benefit of your own class features. If the target has any class levels, you can’t use any of its class features.  Meanwhile, the possessed creature’s soul can perceive from the container using its own senses, but it can’t move or take actions at all.  While possessing a body, you can use your action to return from the host body to the container if it is within 100 feet of you, returning the host creature’s soul to its body. If the host body dies while you’re in it, the creature dies, and you must make a Charisma saving throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.  If the container is destroyed or the spell ends, your soul immediately returns to your body. If your body is more than 100 feet away from you or if your body is dead when you attempt to return to it, you die. If another creature’s soul is in the container when it is destroyed, the creature’s soul returns to its body if the body is alive and within 100 feet. Otherwise, that creature dies. When the spell ends, the container is destroyed.
+
+Magic Missile
+1st-level evocation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+
+At Higher Levels.When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+
+Magic Mouth
+2nd-level illusion (ritual)
+Casting Time:1 minute
+Range:30 feet
+Components:V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)
+Duration:Until dispelledYou implant a message within an object in range, a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn’t being worn or carried by another creature. Then speak the message, which must be 25 words or less, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
+When that circumstance occurs, a magical mouth appears on the object and recites the message in your voice and at the same volume you spoke. If the object you chose has a mouth or something that looks like a mouth (for example, the mouth of a statue), the magical mouth appears there so that the words appear to come from the object’s mouth. When you cast this spell,
+you can have the spell end after it delivers its message, or it can remain and repeat its message whenever the trigger occurs.
+The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
+
+Magic Weapon
+2nd-level transmutation
+Casting Time:1 bonus action
+Range:Touch
+Components:V, S
+Duration:Concentration, up to 1 hour
+You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
+At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
+
+Magnificent Mansion
+7th-level conjuration
+Casting Time: 1 minute
+Range: 300 feet
+Components: V, S, M (a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)
+Duration: 24 hours You conjure an extradimensional dwelling in range that lasts for the duration. You choose where its one entrance is located. The entrance shimmers faintly and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open. You can open or close the portal if you are within 30 feet of it. While closed, the portal is invisible.  Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm.  You can create any floor plan you like, but the space can’t exceed 50 cubes, each cube being 10 feet on each side. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine-course banquet for up to 100 people. A staff of 100 near-transparent servants attends all who enter. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can’t attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can go anywhere in the mansion but can’t leave it. Furnishings and other objects created by this spell dissipate into smoke if removed from the mansion. When the spell ends, any creatures inside the extradimensional space are expelled into the open spaces nearest to the entrance.
+
+Major Image
+3rd-level illusion
+Casting Time: 1 action
+Range:120 feet
+Components:V, S, M (a bit of fleece)
+Duration:Concentration, up to 10 minutesYou create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot cube. The image appears at a spot that you can see within range and lasts for the duration. It seems completely real, including sounds, smells, and temperature appropriate to the thing depicted. You can’t create sufficient heat or cold to cause damage, a sound loud enough to deal thunder damage or deafen a creature, or a smell that might sicken a creature
+(like a troglodyte’s stench).
+As long as you are within range of the illusion, you can use your action to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
+Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
+At Higher Levels.When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your concentration.
+
+Mass Cure Wounds
+5th-level evocation
+Casting Time:1 action
+Range:60 feet
+Components:V, S
+Duration:InstantaneousA wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+At Higher Levels.When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
+
+Mass Heal
+9th-level evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell has no effect on undead or constructs.
+
+Mass Healing Word
+3rd-level evocation
+Casting Time: 1 bonus action
+Range: 60 feet
+Components: V
+Duration: Instantaneous As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
+
+Mass Suggestion
+6th-level enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V, M (a snake’s tongue and either a bit of honeycomb or a drop of sweet oil)
+Duration: 24 hours You suggest a course of activity (limited to a sentence or two) and magically influence up to twelve creatures of your choice that you can see within range and that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell.  Each target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.
+You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a group of soldiers give all their money to the first beggar they meet. If the condition isn’t met before the spell ends, the activity isn’t performed.
+If you or any of your companions damage a creature affected by this spell, the spell ends for that creature.
+At Higher Levels. When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.

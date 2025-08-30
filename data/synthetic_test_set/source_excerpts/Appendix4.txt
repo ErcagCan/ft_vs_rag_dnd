@@ -1,0 +1,759 @@
+Swarm of Bats
+Medium swarm of Tiny beasts, unaligned
+Armor Class12
+Hit Points22 (5d8)
+Speed0 ft., fly 30 ft.
+STR     DEX      CON      INT     WIS      CHA     
+5 (−3)  15 (+2)  10 (+0)  2 (−4)  12 (+1)  4 (−3)  
+
+DamageResistancesbludgeoning, piercing, slashing
+Condition Immunitiescharmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+Sensesblindsight 60 ft., passive Perception 11
+Languages-
+Challenge 1/4 (50 XP)
+Echolocation.The swarm can’t use its blindsight while deafened.
+Keen Hearing.The swarm has advantage on Wisdom (Perception) checks that rely on hearing.
+Swarm.The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can’t regain hit points or gain temporary hit points.
+
+Actions
+Bites.Melee Weapon Attack:+4 to hit, reach 0 ft., one creature in the swarm’s space.
+Hit:5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
+
+Swarm of Insects
+Medium swarm of Tiny beasts, unaligned
+Armor Class12 (natural armor)
+Hit Points 22 (5d8)
+Speed 20 ft., climb 20 ft.
+STR     DEX      CON      INT     WIS     CHA     
+3 (−4)  13 (+1)  10 (+0)  1 (−5)  7 (−2)  1 (−5)  
+
+DamageResistances bludgeoning, piercing, slashing
+Condition Immunities charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+Senses blindsight 10 ft., passive Perception 8
+Languages -
+Challenge 1/2 (100 XP)
+Swarm. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can’t regain hit points or gain temporary hit points.
+
+Actions
+Bites.Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
+
+Swarm of Poisonous Snakes
+Medium swarm of Tiny beasts, unaligned
+Armor Class 14
+Hit Points 36 (8d8)
+Speed 30 ft., swim 30 ft.
+STR     DEX      CON      INT     WIS      CHA     
+8 (−1)  18 (+4)  11 (+0)  1 (−5)  10 (+0)  3 (−4)  
+
+Damage Resistances bludgeoning, piercing, slashing
+Condition Immunities charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+Senses blindsight 10 ft., passive Perception 10
+Languages -
+Challenge 2 (450 XP)
+Swarm. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can’t regain hit points or gain temporary hit points.
+
+Actions
+Bites.Melee Weapon Attack:+6 to hit, reach 0 ft., one creature in the swarm’s space.
+Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
+
+Swarm of Quippers
+Medium swarm of Tiny beasts, unaligned
+Armor Class13
+Hit Points28 (8d8 − 8)
+Speed0 ft., swim 40 ft.
+STR      DEX      CON     INT     WIS     CHA     
+13 (+1)  16 (+3)  9 (−1)  1 (−5)  7 (−2)  2 (−4)  
+
+Damage Resistancesbludgeoning, piercing, slashing
+Condition Immunitiescharmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+Sensesdarkvision 60 ft., passive Perception 8
+Languages-
+Challenge 1 (200 XP)
+Blood Frenzy. The swarm has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+
+Swarm.The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can’t regain hit points or gain temporary hit points.
+Water Breathing. The swarm can breathe only underwater.
+
+Actions
+Bites.Melee Weapon Attack:+5 to hit, reach 0 ft., one creature in the swarm’s space.
+Hit:14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
+
+Swarm of Rats
+Medium swarm of Tiny beasts, unaligned
+Armor Class10
+Hit Points24 (7d8 − 7)
+Speed 30 ft.
+STR     DEX      CON     INT     WIS      CHA     
+9 (−1)  11 (+0)  9 (−1)  2 (−4)  10 (+0)  3 (−4)  
+
+Damage Resistances bludgeoning, piercing, slashing
+Condition Immunities charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+Senses darkvision 30 ft., passive Perception 10
+Languages -
+Challenge 1/4 (50 XP)
+Keen Smell. The swarm has advantage on Wisdom (Perception) checks that rely on smell.
+Swarm. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can’t regain hit points or gain temporary hit points.
+
+Actions
+Bites.Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm’s space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+
+Swarm of Ravens
+Medium swarm of Tiny beasts, unaligned
+Armor Class 12
+Hit Points 24 (7d8 − 7)
+Speed 10 ft., fly 50 ft.
+STR     DEX      CON     INT     WIS      CHA     
+6 (−2)  14 (+2)  8 (−1)  3 (−4)  12 (+1)  6 (−2)  
+
+Skills Perception +5
+Damage Resistances bludgeoning, piercing, slashing
+Condition Immunities charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+Senses passive Perception 15
+Languages -
+Challenge 1/4 (50 XP)
+Swarm. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can’t regain hit points or gain temporary hit points.
+
+Actions
+Beaks.Melee Weapon Attack:+4 to hit, reach 5 ft., one target in the swarm’s space.
+Hit:7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+
+Variant: Insect Swarms
+Different kinds of insects can gather in swarms, and each swarm has the special characteristics described below.
+Swarm of Beetles.A swarm of beetles gains a burrowing speed of 5 feet.
+Swarm of Centipedes.A creature reduced to 0 hit points by a swarm of centipedes is stable but poisoned for 1 hour, even after regaining hit points, and paralyzed while poisoned in this way.
+Swarm of Spiders. A swarm of spiders has the following additional traits.
+Spider Climb.
+The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Web Sense.While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web.
+Web Walker.The swarm ignores movement restrictions caused by webbing.
+Swarm of Wasps. A swarm of wasps has a walking speed of 5 feet, a flying speed of 30 feet, and no climbing speed.
+
+Tiger
+Large beast, unaligned
+Armor Class12
+Hit Points37 (5d10 + 10)
+Speed40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+17 (+3)  15 (+2)  14 (+2)  3 (−4)  12 (+1)  8 (−1)  
+
+SkillsPerception +3, Stealth +6
+Sensesdarkvision 60 ft., passive Perception 13
+Languages-
+Challenge 1 (200 XP)
+Keen Smell.The tiger has advantage on Wisdom (Perception) checks that rely on smell.
+Pounce.If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the
+target is prone, the tiger can make one bite attack against it as a bonus action.
+
+Actions
+Bite.Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.
+Claw.Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
+
+Vulture
+Medium beast, unaligned
+Armor Class 10
+Hit Points 5 (1d8 + 1)
+Speed 10 ft., fly 50 ft.
+STR     DEX      CON      INT     WIS      CHA     
+7 (−2)  10 (+0)  13 (+1)  2 (−4)  12 (+1)  4 (−3)  
+
+Skills Perception +3
+Senses passive Perception 13
+Languages -
+Challenge 0 (10 XP)
+Keen Sight and Smell. The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
+Pack Tactics. The vulture has advantage on an attack roll against a creature if at least one of the vulture’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+Actions
+Beak.Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.
+
+Warhorse
+Large beast, unaligned
+Armor Class 11
+Hit Points 19 (3d10 + 3)
+Speed 60 ft.
+STR      DEX      CON      INT     WIS      CHA     
+18 (+4)  12 (+1)  13 (+1)  2 (−4)  12 (+1)  7 (−2)  
+
+Senses passive Perception 11
+Languages -
+Challenge 1/2 (100 XP)
+Trampling Charge.If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
+
+Actions
+Hooves.Melee Weapon Attack:+6 to hit, reach 5 ft., one target.
+Hit:11 (2d6 + 4) bludgeoning damage.
+
+Weasel
+Tiny beast, unaligned
+Armor Class13
+Hit Points1 (1d4 − 1)
+Speed30 ft.
+STR     DEX      CON     INT     WIS      CHA     
+3 (−4)  16 (+3)  8 (−1)  2 (−4)  12 (+1)  3 (−4)  
+
+SkillsPerception +3, Stealth +5
+Sensespassive Perception 13
+Languages-
+Challenge 0 (10 XP)
+Keen Hearing
+and Smell.The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+Actions
+Bite.Melee Weapon Attack:+5 to hit, reach 5 ft., one target.
+Hit:1 piercing damage.
+
+Winter Wolf
+Large monstrosity, neutral evil
+Armor Class13 (natural armor)
+Hit Points75 (10d10 + 20)
+Speed50 ft.
+STR      DEX      CON      INT     WIS      CHA     
+18 (+4)  13 (+1)  14 (+2)  7 (−2)  12 (+1)  8 (−1)  
+
+SkillsPerception +5, Stealth +3
+Damage Immunities cold
+Senses passive Perception 15
+Languages Common, Giant, Winter Wolf
+Challenge 3 (700 XP)
+Keen Hearing and Smell. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Pack Tactics. The wolf has advantage on an attack roll against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+Snow Camouflage. The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
+
+Actions
+Bite.Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+Cold Breath (Recharge 5-6). The wolf exhales a blast of freezing wind in a 15--foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one. The arctic-dwelling
+winter wolf is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves’ deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.
+
+Wolf
+Medium beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 11 (2d8 + 2)
+Speed 40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+12 (+1)  15 (+2)  12 (+1)  3 (−4)  12 (+1)  6 (−2)  
+
+Skills Perception +3, Stealth +4
+Senses passive Perception 13
+Languages -
+Challenge 1/4 (50 XP)
+Keen Hearing and Smell.The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Pack Tactics. The wolf has advantage on attack rolls against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+Actions
+Bite.Melee Weapon Attack:+4 to hit, reach 5 ft., one target.
+Hit: 7 (2d4 + 2) piercing damage. If the target isa creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+
+Worg
+Large monstrosity, neutral evil
+Armor Class13 (natural armor)
+Hit Points26 (4d10 + 4)
+Speed50 ft.
+STR      DEX      CON      INT     WIS      CHA    
+16 (+3)  13 (+1)  13 (+1)  7 (−2)  11 (+0)  8(−1)  
+
+SkillsPerception +4
+Sensesdarkvision 60 ft., passive Perception 14
+LanguagesGoblin, Worg
+Challenge 1/2 (100 XP)
+Keen Hearing and Smell.The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+Actions
+Bite.Melee Weapon Attack:
++5 to hit, reach 5 ft., one target.
+Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+A
+worgis an evil predator that delights in hunting and devouring creatures
+weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language
+and Goblin, and a few learn to speak Common as well.
+
+
+Appendix MM -B: Nonplayer Characters
+This appendix contains statistics for various humanoid nonplayer characters (NPCs) that adventurers might encounter during a campaign, including lowly commoners and mighty archmages. These stat blocks can be used to represent both human and nonhuman NPCs.
+
+Customizing NPCs
+There are many easy ways to customize the NPCs in this appendix for your home campaign.
+Racial Traits. You can add racial traits to an NPC. For example, a halfling druid might have a speed of 25 feet and the Lucky trait. Adding racial traits to an NPC doesn’t alter its challenge rating. For more on racial traits, see the Player’s Handbook.
+Spell Swaps. One way to customize an NPC spellcaster is to replace one or more of its spells. You can substitute any spell on the NPC’s spell list with a different spell of the same level from the same spell list. Swapping spells in this manner doesn’t alter an NPC’s challenge rating.
+Armor and Weapon Swaps. You can upgrade or downgrade an NPC’s armor, or add or switch weapons. Adjustments to Armor Class and damage can change an NPC’s challenge rating.
+Magic Items. The more powerful an NPC, the more likely it has one or more magic items in its possession. An archmage, for example, might have a magic staff or wand, as well as one or more potions and scrolls. Giving an NPC a potent damage-dealing magic item could alter its challenge rating.
+
+Acolyte
+Medium humanoid (any race), any alignment
+Armor Class 10
+Hit Points 9 (2d8)
+Speed 30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+10 (+0)  10 (+0)  10 (+0)  10 (+0)  14 (+2)  11 (+0)  
+
+Skills Medicine +4, Religion +2
+Senses passive Perception 12
+Languagesany one language (usually Common)
+Challenge1/4 (50 XP)
+Spellcasting.The acolyte is a 1st--level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
+Cantrips (at will): light, sacred flame, thaumaturgy
+1st level (3 slots): bless, cure wounds, sanctuary
+
+Actions
+Club. Melee Weapon Attack:
++2 to hit, reach 5 ft., one target.
+Hit: 2 (1d4) bludgeoning damage.
+Acolytesare junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.
+
+Archmage
+Medium humanoid (any race), any alignment
+Armor Class 12 (15 with mage armor)
+Hit Points99 (18d8 + 18)
+Speed30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+10 (+0)  14 (+2)  12 (+1)  20 (+5)  15 (+2)  16 (+3)  
+
+Saving ThrowsInt +9, Wis +6
+SkillsArcana +13, History +13
+Damage Resistancedamage from spells; nonmagical bludgeoning, piercing, and slashing (from
+stoneskin)
+Sensespassive Perception 12
+Languagesany six languages
+Challenge12 (8,400 XP)
+Magic Resistance.The archmage has advantage on saving throws against spells and other magical effects.
+Spellcasting.The archmage is an 18th--level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast
+disguise self and invisibilityat will and has the following wizard spells prepared:Cantrips (at will):
+fire bolt, light, mage hand,
+prestidigitation, shocking grasp
+1st level (4 slots): detect magic, identify, mage armor,*magic missile 2nd level (3 slots): detect thoughts, mirror image, misty step 3rd level (3 slots): counterspell, fly, lightning bolt 4th level (3 slots): banishment, fire shield, stoneskin*5th level (3 slots): cone of cold, scrying, wall of force 6th level (1 slot): globe of invulnerability 7th level (1 slot): teleport 8th level (1 slot): mind blank*9th level (1 slot): time stop *The archmage casts these spells on itself before combat.
+
+Actions
+Dagger. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2)piercing damage.
+Archmages are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.  An archmage typically has one or more apprentice mages, and an archmage’s abode has numerous magical wards and guardians to discourage interlopers.
+
+Assassin
+Medium humanoid (any race), any non--good alignment
+Armor Class 15 (studded leather)
+Hit Points 78 (12d8 + 24)
+Speed 30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+11 (+0)  16 (+3)  14 (+2)  13 (+1)  11 (+0)  10 (+0)  
+
+Saving Throws Dex +6, Int +4
+Skills Acrobatics +6, Deception +3, Perception +3, Stealth +9
+Damage Resistances poison
+Senses passive Perception 13
+Languages Thieves’ cant plus any two languages
+Challenge8 (3,900 XP)
+Assassinate.During its first turn, the assassin has advantage on attack rolls against any creature that hasn’t taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.
+Evasion.If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+Sneak Attack.Once per turn, the assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn’t incapacitated and the assassin doesn’t have disadvantage on the attack roll.
+
+Actions
+Multiattack. The assassin makes two shortsword attacks.
+Shortsword.Melee Weapon Attack:+6 to hit, reach 5 ft., one target.
+Hit:6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage
+on a successful one.
+Light Crossbow. Ranged Weapon Attack:+6 to hit, range 80/320 ft., one target.
+Hit:7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+Trained in the use of poison,
+assassinsare remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
+
+Bandit
+Medium humanoid (any race), any non--lawful alignment
+Armor Class 12 (leather armor)
+Hit Points11 (2d8 + 2)
+Speed30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+11 (+0)  12 (+1)  12 (+1)  10 (+0)  10 (+0)  10 (+0)  
+
+Senses passive Perception 10
+Languages any one language (usually Common)
+Challenge 1/8 (25 XP)
+
+Actions
+Scimitar.Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
+Light Crossbow. Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+Bandits rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
+Pirates are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation’s vessels.
+
+Bandit Captain
+Medium humanoid (any race), any non--lawful alignment
+Armor Class 15 (studded leather)
+Hit Points 65 (10d8 + 20)
+Speed 30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+15 (+2)  16 (+3)  14 (+2)  14 (+2)  11 (+0)  14 (+2)  
+
+Saving Throws Str +4, Dex +5, Wis +2
+Skills Athletics +4, Deception +4
+Senses passive Perception 10
+Languages any two languages
+Challenge 2 (450 XP)
+
+Actions
+Multiattack. The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
+Scimitar.Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3)piercing damage.
+
+Reactions
+Parry. The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain
+must see the attacker and be wielding a melee weapon.
+It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The
+bandit captainhas these qualities in spades.
+In addition to managing a crew of selfish malcontents, the
+pirate captainis a variation of the bandit captain, with a ship to protect and command. To keep the crew in line, the captain must mete out rewards and punishment on a regular basis.
+More than treasure, a bandit captain or pirate captain craves infamy. A prisoner who appeals to the captain’s vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the captain’s colorful reputation.
+
+Berserker
+Medium humanoid (any race), any chaotic alignment
+Armor Class13 (hide armor)
+Hit Points67 (9d8 + 27)
+Speed30 ft.
+STR      DEX      CON      INT     WIS      CHA     
+16 (+3)  12 (+1)  17 (+3)  9 (−1)  11 (+0)  9 (−1)  
+
+Sensespassive Perception 10
+Languagesany one language (usually Common)
+Challenge 2 (450 XP)
+Reckless. At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
+
+Actions
+Greataxe. Melee WeaponAttack:
++5 to hit, reach 5 ft., one target.
+Hit:9 (1d12 + 3) slashing damage.Hailing from uncivilized lands, unpredictable
+berserkerscome together in war parties and seek conflict wherever they can find it.
+
+Commoner
+Medium humanoid (any race), any alignment
+Armor Class 10
+Hit Points 4 (1d8)
+Speed 30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+10 (+0)  10 (+0)  10 (+0)  10 (+0)  10 (+0)  10 (+0)  
+
+Senses passive Perception 10
+Languages any one language (usually Common)
+Challenge 0 (10 XP)
+
+Actions
+Club. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
+Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
+
+Cultist
+Medium humanoid (any race), any non--good alignment
+Armor Class 12 (leather armor)
+Hit Points 9 (2d8)
+Speed 30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+11 (+0)  12 (+1)  10 (+0)  10 (+0)  11 (+0)  10 (+0)  
+
+Skills Deception +2, Religion +2
+Senses passive Perception 10
+Languages any one language (usually Common)
+Challenge 1/8 (25 XP)
+Dark Devotion. The cultist has advantage on saving throws against being charmed or frightened.
+
+Actions
+Scimitar. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.
+Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
+
+Cult Fanatic
+Medium humanoid (any race), any non--good alignment
+Armor Class13 (leather armor)
+Hit Points33 (6d8 + 6)
+Speed30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+11 (+0)  14 (+2)  12 (+1)  10 (+0)  13 (+1)  14 (+2)  
+
+SkillsDeception +4, Persuasion +4, Religion +2
+Sensespassive Perception 11
+Languagesany one language (usually Common)
+Challenge 2 (450 XP)
+Dark Devotion.The fanatic has advantage on saving throws against being charmed or frightened.
+Spellcasting.The fanatic is a 4th--level spellcaster. Its spellcasting ability is Wisdom (spell
+save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:
+Cantrips (at will): light, sacred flame, thaumaturgy
+1st level (4 slots): command,inflict wounds,shield of faith
+2nd level (3 slots): hold person, spiritual weapon
+
+Actions
+Multiattack. The fanatic makes two melee attacks.
+Dagger. Melee or Ranged Weapon Attack:+4 to hit, reach 5 ft. or range 20/60 ft., one creature.
+Hit: 4 (1d4 +2) piercing damage.
+Fanaticsare often part of a cult’s leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.
+
+Druid
+Medium humanoid (any race), any alignment
+Armor Class11 (16 with barkskin)
+Hit
+Points27 (5d8 + 5)
+Speed 30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+10 (+0)  12 (+1)  13 (+1)  12 (+1)  15 (+2)  11 (+0)  
+
+Skills Medicine +4, Nature +3, Perception +4
+Senses passive Perception 14
+Languages Druidic plus any two languages
+Challenge 2 (450 XP)
+Spellcasting. The druid is a 4th--level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared: Cantrips (at will): druidcraft, produce flame, shillelagh 1st level (4 slots): entangle, longstrider, speak with animals, thunderwave 2nd level (3 slots): animal messenger, barkskin
+
+Actions
+Quarterstaff. Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh.
+Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are
+tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.
+
+Gladiato r
+Medium humanoid (any race), any alignment
+Armor Class 16 (studded leather, shield)
+Hit Points 112 (15d8 + 45)
+Speed 30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+18 (+4)  15 (+2)  16 (+3)  10 (+0)  12 (+1)  15 (+2)  
+
+Saving Throws Str +7, Dex +5, Con +6
+Skills Athletics +10, Intimidation +5
+Senses passive Perception 11
+Languages any one language (usually Common)
+Challenge 5 (1,800 XP)
+Brave.The gladiator has advantage on saving throws against being frightened.
+Brute.A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
+
+Actions
+Multiattack. The gladiator makes three melee attacks or two ranged attacks.
+Spear. Melee or Ranged Weapon Attack:+7 to hit, reach 5 ft. and range 20/60 ft., one target.
+Hit:11 (2d6 +4) piercing
+damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
+Shield Bash. Melee Weapon Attack:
++7 to hit, reach 5 ft., one creature.
+Hit: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+
+Reactions
+Parry. The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
+Gladiatorsbattle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
+
+Guard
+Medium humanoid (any race), any alignment
+Armor Class16 (chain shirt, shield)
+Hit Points11 (2d8 + 2)
+Speed30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+13 (+1)  12 (+1)  12 (+1)  10 (+0)  11 (+0)  10 (+0)  
+
+SkillsPerception +2
+Sensespassive Perception 12
+Languagesany one language (usually Common)
+Challenge 1/8 (25 XP)
+
+Actions
+Spear. Melee or Ranged Weapon Attack:+3 to hit, reach 5 ft. or range 20/60 ft., one target.
+Hit:4 (1d6 +
+1)piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+Guards include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
+
+Knight
+Medium humanoid (any race), any alignment
+Armor Class 18 (plate)
+Hit Points 52 (8d8 + 16)
+Speed 30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+16 (+3)  11 (+0)  14 (+2)  11 (+0)  11 (+0)  15 (+2)  
+
+Saving Throws Con +4, Wis +2
+Senses passive Perception 10
+Languages any one language (usually Common)
+Challenge 3 (700 XP)
+Brave. The knight has advantage on saving throws against being frightened.
+
+Actions
+Multiattack. The knight makes two melee attacks.
+Greatsword. Melee Weapon Attack:
++5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
+Heavy Crossbow.Ranged Weapon Attack:
++2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.
+Leadership (Recharges after a Short or Long Rest). For 1 minute, the knight can utter a special command or warning whenever a non hostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
+
+Reactions
+Parry. The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
+Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight’s alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
+
+Mage
+Medium humanoid (any race), any alignment
+Armor Class12 (15 with mage armor)
+Hit Points40 (9d8)
+Speed30 ft.
+STR     DEX      CON      INT      WIS      CHA      
+9 (−1)  14 (+2)  11 (+0)  17 (+3)  12 (+1)  11 (+0)  
+
+Saving ThrowsInt +6, Wis +4
+SkillsArcana +6, History +6
+Sensespassive Perception 11
+Languagesany four languages
+Challenge 6 (2,300 XP)
+Spellcasting.The mage is a 9th--level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
+Cantrips (at will): fire bolt, light, mage hand,
+prestidigitation
+1st level (4 slots): detect magic, mage armor, magic missile
+, shield
+2nd level (3 slots): misty step, suggestion
+3rd level (3 slots): counterspell, fireball, fly
+4th level (3 slots): greater invisibility, ice storm
+5th level (1 slot): cone of cold
+
+Actions
+Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target.
+Hit:4 (1d4 + 2)piercing damage.
+Magesspend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
+
+Noble
+Medium humanoid (any race), any alignment
+Armor Class 15 (breastplate)
+Hit Points 9 (2d8)
+Speed 30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+11 (+0)  12 (+1)  11 (+0)  12 (+1)  14 (+2)  16 (+3)  
+
+Skills Deception +5, Insight +4, Persuasion +5
+Senses passive Perception 12
+Languages any two languages
+Challenge 1/8 (25 XP)
+
+Actions
+Rapier. Melee Weapon Attack:
++3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+
+Reactions
+Parry. The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
+Nobles wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.  The noble’s statistics can also be used to represent
+courtiers who aren’t of noble birth.
+
+Priest
+Medium humanoid (any race), any alignment
+Armor Class 13 (chain shirt)
+Hit Points 27 (5d8 + 5)
+Speed 25 ft.
+STR      DEX      CON      INT      WIS      CHA      
+10 (+0)  10 (+0)  12 (+1)  13 (+1)  16 (+3)  13 (+1)  
+
+Skills Medicine +7, Persuasion +3, Religion +4
+Senses passive Perception 13
+Languages any two languages
+Challenge 2 (450 XP)
+Divine Eminence.As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
+Spellcasting.The priest is a 5th--level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
+Cantrips (at will): light,sacred flame, thaumaturgy
+1st level (4 slots): cure wounds,guiding bolt, sanctuary
+2nd level (3 slots): lesser restoration, spiritual weapon
+3rd level (2 slots): dispel magic, spirit guardians
+
+Actions
+Mace. Melee Weapon Attack:
++2 to hit, reach 5 ft., one target.
+Hit:3 (1d6) bludgeoning damage.
+Priestsbring the teachings of their gods to the common folk. They are the spiritual leaders of temples and shrines and often hold positions of influence in their communities. Evil
+priests might work openly under a tyrant, or they might be the leaders of religious sects hidden in the shadows of good society, overseeing depraved rites.
+A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties.
+
+Scout
+Medium humanoid (any race), any alignment
+Armor Class13 (leather armor)
+Hit Points16 (3d8 + 3)
+Speed30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+11 (+0)  14 (+2)  12 (+1)  11 (+0)  13 (+1)  11 (+0)  
+
+SkillsNature +4, Perception +5, Stealth +6, Survival +5
+Sensespassive Perception 15
+Languagesany one language (usually Common)
+Challenge 1/2 (100 XP)
+Keen Hearing and Sight.The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+Multiattack. The scout makes two melee attacks or two ranged attacks.
+Shortsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+Longbow.Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
+
+Spy
+Medium humanoid (any race), any alignment
+Armor Class 12
+Hit Points 27 (6d8)
+Speed 30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+10 (+0)  15 (+2)  10 (+0)  12 (+1)  14 (+2)  16 (+3)  
+
+Skills Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
+Senses passive Perception 16
+Languages any two languages
+Challenge 1 (200 XP)
+Cunning Action. On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.
+Sneak Attack (1/Turn). The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn’t incapacitated and the spy doesn’t have disadvantage on the attack roll.
+
+Actions
+Multiattack. The spy makes two melee attacks.
+Shortsword. Melee Weapon Attack:
++4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+Hand Crossbow. Ranged Weapon Attack:
++4 to hit, range 30/120 ft., one target.
+Hit:5 (1d6 + 2) piercing damage.
+Rulers, nobles, merchants, guildmasters, and other wealthy individuals use
+spiesto gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.
+
+Thug
+Medium humanoid (any race), any non--good alignment
+Armor Class11 (leather armor)
+Hit Points32 (5d8 + 10)
+Speed 30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+15 (+2)  11 (+0)  14 (+2)  10 (+0)  10 (+0)  11 (+0)  
+
+SkillsIntimidation +2
+Sensespassive Perception 10
+Languagesany one language (usually Common)
+Challenge 1/2 (100 XP)
+Pack Tactics. The thug has advantage on an attack roll against a creature if at least one of the thug’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+Actions
+Multiattack. The thug makes two melee attacks.
+Mace. Melee Weapon Attack:
++4 to hit, reach 5 ft., one creature.
+Hit:5 (1d6 + 2) bludgeoning damage.
+Heavy Crossbow.Ranged Weapon Attack:
++2 to hit, range 100/400 ft., one target.
+Hit: 5 (1d10) piercing damage.
+Thugsare ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
+
+Tribal Warrior
+Medium humanoid (any race), any alignment
+Armor Class12 (hide armor)
+Hit Points11 (2d8 + 2)
+Speed 30 ft.
+STR      DEX      CON      INT     WIS      CHA     
+13 (+1)  11 (+0)  12 (+1)  8 (−1)  11 (+0)  8 (−1)  
+
+Senses passive Perception 10
+Languages any one language
+Challenge 1/8 (25 XP)
+Pack Tactics. The warrior has advantage on an attack roll against a creature if at least one of the warrior’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+Actions
+Spear. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1)piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+Tribal warriors live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.
+
+Veteran
+Medium humanoid (any race), any alignment
+Armor Class 17 (splint)
+Hit Points 58 (9d8 + 18)
+Speed 30 ft.
+STR      DEX      CON      INT      WIS      CHA      
+16 (+3)  13 (+1)  14 (+2)  10 (+0)  11 (+0)  10 (+0)  
+
+Skills Athletics +5, Perception +2
+Senses passive Perception 12
+Languages any one language (usually Common)
+Challenge 3 (700 XP)
+
+Actions
+Multiattack. The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
+Longsword. Melee Weapon Attack:
++5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 +3) slashing damage if used with two hands.
+Shortsword. Melee Weapon Attack:
++5 to hit, reach 5 ft., one target.
+Hit:6 (1d6 + 3) piercing damage.
+Heavy Crossbow.Ranged Weapon Attack:
++3 to hit, range 100/400 ft., one target.
+Hit:6 (1d10 + 1) piercing damage.
+Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but
+themselves.

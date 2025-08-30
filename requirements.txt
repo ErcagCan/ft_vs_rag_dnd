@@ -1,0 +1,31 @@
+# This might not be complete
+
+# Core ML & Data Handling
+pandas
+torch
+datasets
+transformers
+accelerate
+bitsandbytes
+peft
+trl
+unsloth
+
+# RAG & Evaluation Frameworks
+lightrag
+ragas
+langchain-ollama
+langchain-core
+Utilities
+
+pydantic-settings
+tqdm
+jupyter
+matplotlib
+seaborn
+aiofiles
+requests
+ollama
+sentencepiece
+protobuf
+hf_transfer

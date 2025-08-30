@@ -1,0 +1,231 @@
+Equipment
+Each background provides a package of starting equipment. If you use the optional rule to spend coin on gear, you do not receive the starting equipment from your background.
+
+Suggested Characteristics
+A background contains suggested personal characteristics based on your background. You can pick characteristics, roll dice to determine them randomly, or use the suggestions as inspiration for characteristics of your own creation.
+
+Customizing a Background
+You might want to tweak some of the features of a background so it better fits your character
+or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from
+your background or spend coin on gear as described in the equipment section. (If you spend coin, you can’t also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can’t find a feature that matches your desired background, work with your GM to create one.
+
+Acolyte
+You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric-performing sacred rites is not the same thing as channeling divine power.
+Choose a god, a pantheon of gods, or some other quasi-divine being from among those listed in "Fantasy-Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
+Skill Proficiencies: Insight, Religion
+Languages: Two of your choice
+Equipment: A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a pouch containing 15 gp
+
+Feature: Shelter of the Faithful
+As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.  You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
+
+Suggested Characteristics
+Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
+d8  Personality Trait                                                                                                         
+1   I idolize a particular hero of my faith, and constantly  refer to that person’s deeds and example.                        
+2   I can find common ground between the fiercest  enemies, empathizing with them and always  working toward  peace.          
+3   I see omens in every event and action. The gods try  to speak to us, we just need to listen                               
+4   Nothing can shake my optimistic attitude.                                                                                 
+5   I quote (or misquote) sacred texts and proverbs in  almost every situation.                                               
+6   I am tolerant (or intolerant)  of other faiths and  respect (or condemn) the worship of other gods.                       
+7   I’ve enjoyed fine food, drink, and high society  among my temple’s elite. Rough living grates on me.                      
+8   I’ve spent so long in the temple that I have little  practical experience dealing  with people in the  outside world.     
+d6  Ideal                                                                                                                     
+1   Tradition. The ancient traditions of worship and  sacrifice must be preserved and upheld. (Lawful)                        
+2   Charity. I always try to help those in need, no matter  what the personal cost. (Good)                                    
+3   Change. We must  help bring about the changes the  gods are constantly working in the world. (Chaotic)                    
+4   Power. I hope to one day rise to the top of my faith’s  religious hierarchy. (Lawful)                                     
+5   Faith. I trust that my deity will guide my actions. I  have faith that if I work  hard, things will go well.  (Lawful)    
+6   Aspiration. I seek to prove myself worthy of my  god’s favor by matching my actions against his or  her teachings. (Any)  
+d6  Bond                                                                                                                      
+1   I would die to recover an ancient relic of my faith  that was lost long ago.                                              
+2   I will  someday get revenge on the corrupt temple  hierarchy who branded me a heretic.                                    
+3   I owe my life to the priest who took me in when my  parents died.                                                         
+4   Everything I do is for the common people.                                                                                 
+5   I will do anything to protect the temple where I  served.                                                                 
+6   I   seek to preserve a sacred text that my enemies  consider heretical and seek to destroy.                               
+d6  Flaw                                                                                                                      
+1   I judge others harshly, and myself even more  severely.                                                                   
+2   I put too much trust in those who wield power  within my temple’s hierarchy.                                              
+3   My piety sometimes   leads me to blindly trust those  that profess faith in my god.                                       
+4   I am inflexible in my thinking.                                                                                           
+5   I am suspicious of strangers and expect the worst of  them.                                                               
+6   Once I pick a goal, I become obsessed with it to the  detriment of everything else in my life.                            
+
+
+
+Equipment
+Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).  With one gold piece, a character can buy a bedroll, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don’t usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.  One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer’s work for half a day, a flask of lamp oil, or a night’s rest in a poor inn.  One silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.  In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.  A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
+
+Standard Exchange Rates
+Coin           CP     SP    EP    GP     PP       
+Copper (cp)    1      1/10  1/50  1/100  1/1,000  
+Silver (sp)    10     1     1/5   1/10   1/100    
+Electrum (ep)  50     5     1     1/2    1/20     
+Gold (gp)      100    10    2     1      1/10     
+Platinum (pp)  1,000  100   20    10     1        
+
+
+Selling Treasure
+Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
+Arms, Armor, and Other Equipment.As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by monsters are rarely in good enough condition to sell.
+Magic Items.Selling magic items is problematic. Finding someone to buy a potion or a scroll isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common magic items, you won’t normally come across magic items or spells to purchase. The value of magic is far beyond simple gold and should always be treated as such.
+Gems, Jewelry, and Art Objects.These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable treasures, the GM might require you to find a buyer in a large town or larger community first.
+
+Trade Goods.On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods-bars of iron, bags of salt, livestock, and so on-retain their full value in the market and can be used as currency.
+
+Armor
+Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with a shield.
+The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
+Armor Proficiency. Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t
+cast spells.
+Armor Class (AC).Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
+Heavy Armor. Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows “Str 13” or “Str 15” in the Strength column for an armor type, the armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+Stealth. If the Armor table shows “Disadvantage” in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
+Shields. A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
+
+Light Armor
+Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
+Padded. Padded armor consists of quilted layers of cloth and batting.
+Leather. The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
+Studded Leather. Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
+
+Medium Armor
+Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
+Hide. This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.
+Chain Shirt. Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+Scale Mail.This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.
+Breastplate.This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered.
+Half Plate.Half plate consists of shaped metal plates that cover most of the wearer’s body.
+It does not include leg protection beyond simple greaves that are attached with leather straps.
+
+Heavy Armor
+Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.
+Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative.
+Ring Mail.This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can’t afford better armor.
+Chain Mail.Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
+Splint.This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
+Plate.Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
+
+Armor
+Armor        Cost  Armor Class (AC)   Strength  Stealth       Weight  
+Light Armor  
+Padded       5 gp  11 + Dex modifier  -         Disadvantage  8 lb.   
+
+Leather          10 gp     11 + Dex modifier           -         -             10 lb.  
+Studded leather  45 gp     12 + Dex modifier           -         -             13 lb.  
+Medium Armor     
+Hide             10 gp     12 + Dex modifier (max 2)   -         -             12 lb.  
+Chain shirt      50 gp     13 + Dex modifier (max 2)   -         -             20 lb.  
+Scale mail       50 gp     14 + Dex  modifier (max 2)  -         Disadvantage  45 lb.  
+Breastplate      400 gp    14 + Dex modifier (max 2)   -         -             20 lb.  
+Half plate       750 gp    15 + Dex modifier (max 2)   -         Disadvantage  40 lb.  
+Heavy Armor      
+Ring mail        30 gp     14                          -         Disadvantage  40 lb.  
+Chain mail       75 gp     16                          Str   13  Disadvantage  55 lb.  
+Splint           200 gp    17                          Str 15    Disadvantage  60 lb.  
+Plate            1,500 gp  18                          Str 15    Disadvantage  65 lb.  
+Shield           
+Shield           10 gp     +2                          -         -             6 lb.   
+
+
+Getting Into and Out of Armor
+The time it takes to don or doff armor depends on the armor’s category.
+Don. This is the time it takes to put on armor. You benefit from the armor’s AC only if you take the full time to don the suit of armor.
+Doff. This is the time it takes to take off armor. If you have help, reduce this time by half.
+
+Donning and Doffing Armor
+Category      Don         Doff       
+Light Armor   1 minute    1 minute   
+Medium Armor  5 minutes   1 minute   
+Heavy Armor   10 minutes  5 minutes  
+Shield        1 action    1 action   
+
+
+Weapons
+Your class grants proficiency in certain weapons, reflecting both the class’s focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.  The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A
+melee weapon is used to attack a target within 5 feet of you, whereas a
+ranged weapon is used to attack a target at a distance.
+
+Weapon Proficiency
+Your race, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are
+simple and
+martial. Most people can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors
+use martial weapons because these weapons put their fighting style and training to best use.
+Proficiency with a weapon allows you to add your proficiency bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
+
+Weapon Properties
+Many weapons have special properties related to their use, as shown in the Weapons table.
+Ammunition.You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+If you use a weapon that has the ammunition property to make a melee attack, you treat
+the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
+Finesse.When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+Heavy. Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
+Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
+Range. A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
+Reach. This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it.
+Special. A weapon with the special property has unusual rules governing its use, explained in the weapon’s description (see “Special Weapons” later in this section).
+Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
+Two-Handed. This weapon requires two hands when you attack with it.
+Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property-the damage when the weapon is used with two hands to make a melee attack.
+
+Improvised Weapons
+Sometimes characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
+Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM’s option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
+An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
+
+Silvered Weapons
+Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
+
+Special Weapons
+Weapons with special rules are described here.
+Lance.You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren’t mounted.
+Net.A Large or smaller creature hit by a net is restrained until
+it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
+When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
+
+Weapons
+Name                  Cost  Damage  Weight  Properties  
+Simple Melee Weapons  
+
+Club                    1 sp   1d4 bludgeoning  2 lb.    Light                                                      
+Dagger                  2 gp   1d4 piercing     1 lb.    Finesse, light, thrown (range 20/60)                       
+Greatclub               2 sp   1d8 bludgeoning  10 lb.   Two -- handed                                              
+Handaxe                 5 gp   1d6 slashing     2 lb.    Light, thrown (range 20/60)                                
+Javelin                 5 sp   1d6 piercing     2 lb.    Thrown (range 30/120)                                      
+Light hammer            2 gp   1d4 bludgeoning  2 lb.    Light, thrown (range 20/60)                                
+Mace                    5 gp   1d6 bludgeoning  4 lb.    -                                                          
+Quarterstaff            2 sp   1d6 bludgeoning  4 lb.    Versatile (1d8)                                            
+Sickle                  1 gp   1d4 slashing     2 lb.    Light                                                      
+Spear                   1 gp   1d6 piercing     3 lb.    Thrown (range 20/60), versatile (1d8)                      
+Simple Ranged Weapons   
+Crossbow, light         25 gp  1d8 piercing     5 lb.    Ammunition (range  80/320), loading, two -- handed         
+Dart                    5 cp   1d4 piercing     1/4 lb.  Finesse, thrown (range 20/60)                              
+Shortbow                25 gp  1d6 piercing     2 lb.    Ammunition (range 80/320), two -- handed                   
+Sling                   1 sp   1d4 bludgeoning  -        Ammunition (range 30/120)                                  
+Martial Melee Weapons   
+Battleaxe               10 gp  1d8 slashing     4 lb.    Versatile (1d10)                                           
+Flail                   10 gp  1d8 bludgeoning  2 lb.    -                                                          
+Glaive                  20 gp  1d10 slashing    6 lb.    Heavy, reach, two -- handed                                
+Greataxe                30 gp  1d12 slashing    7 lb.    Heavy, two -- handed                                       
+Greatsword              50 gp  2d6 slashing     6 lb.    Heavy,  two -- handed                                      
+Halberd                 20 gp  1d10 slashing    6 lb.    Heavy, reach, two -- handed                                
+Lance                   10 gp  1d12 piercing    6 lb.    Reach, special                                             
+Longsword               15 gp  1d8 slashing     3 lb.    Versatile (1d10)                                           
+Maul                    10 gp  2d6 bludgeoning  10 lb.   Heavy, two -- handed                                       
+Morningstar             15 gp  1d8 piercing     4 lb.    -                                                          
+Pike                    5 gp   1d10 piercing    18 lb.   Heavy, reach, two -- handed                                
+Rapier                  25 gp  1d8 piercing     2 lb.    Finesse                                                    
+Scimitar                25 gp  1d6 slashing     3 lb.    Finesse, light                                             
+Shortsword              10 gp  1d6 piercing     2 lb.    Finesse, light                                             
+Trident                 5 gp   1d6 piercing     4 lb.    Thrown (range 20/60), versatile (1d8)                      
+War pick                5 gp   1d8 piercing     2 lb.    -                                                          
+Warhammer               15 gp  1d8 bludgeoning  2 lb.    Versatile (1d10)                                           
+Whip                    2 gp   1d4 slashing     3 lb.    Finesse, reach                                             
+Martial Ranged Weapons  
+Blowgun                 10 gp  1 piercing       1 lb.    Ammunition (range   25/100), loading                       
+Crossbow, hand          75 gp  1d6 piercing     3 lb.    Ammunition (range 30/120), light, loading                  
+Crossbow, heavy         50 gp  1d10 piercing    18 lb.   Ammunition (range 100/400), heavy, loading, two -- handed  
+Longbow                 50 gp  1d8 piercing     2 lb.    Ammunition (range  150/600), heavy, two -- handed          
+Net                     1 gp   -                3 lb.    Special, thrown (range 5/15)                               

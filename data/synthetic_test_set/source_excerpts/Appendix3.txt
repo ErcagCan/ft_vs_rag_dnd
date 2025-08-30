@@ -1,0 +1,700 @@
+Giant Scorpion
+Large beast, unaligned
+Armor Class15 (natural armor)
+Hit Points52 (7d10 + 14)
+Speed40 ft.
+STR      DEX      CON      INT     WIS     CHA     
+15 (+2)  13 (+1)  15 (+2)  1 (−5)  9 (−1)  3 (−4)  
+
+Sensesblindsight 60 ft., passive Perception 9
+Languages-
+Challenge 3 (700 XP)
+
+Actions
+Multiattack.The scorpion makes three attacks: two with its claws and one with its sting.
+Claw.Melee Weapon Attack:+4 to hit, reach 5 ft., one target.
+Hit:6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.
+Sting.Melee Weapon Attack:+4 to hit, reach 5 ft., one creature.
+Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22
+(4d10) poison damage on a failed save, or half as much damage on a successful one.
+
+Giant Sea Horse
+Large beast, unaligned
+Armor Class13 (natural armor)
+Hit Points16 (3d10)
+Speed0 ft., swim 40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+12 (+1)  15 (+2)  11 (+0)  2 (−4)  12 (+1)  5 (−3)  
+
+Senses passive Perception 11
+Languages -
+Challenge 1/2 (100 XP)
+Charge. If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. It the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+Water Breathing. The sea horse can breathe only underwater.
+
+Actions
+Ram.Melee Weapon Attack:
++3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage. Like their smaller kin,
+giant sea horses are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.
+
+Giant Shark
+Huge beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 126 (11d12 + 55)
+Speed 0 ft., swim 50 ft.
+STR      DEX      CON      INT     WIS      CHA     
+23 (+6)  11 (+0)  21 (+5)  1 (−5)  10 (+0)  5 (−3)  
+
+Skills Perception +3
+Senses blindsight 60 ft., passive Perception 13
+Languages -
+Challenge 5 (1,800 XP)
+Blood Frenzy. The shark has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+Water Breathing. The shark can breathe only underwater.
+
+Actions
+Bite.Melee Weapon Attack:
++9 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage. A
+giant sharkis 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
+
+Giant Spider
+Large beast, unaligned
+Armor Class14 (natural armor)
+Hit Points26 (4d10 + 4)
+Speed30 ft., climb 30 ft.
+STR      DEX      CON      INT     WIS      CHA     
+14 (+2)  16 (+3)  12 (+1)  2 (−4)  11 (+0)  4 (−3)  
+
+SkillsStealth +7
+Sensesblindsight 10 ft., darkvision 60 ft., passive Perception 10
+Languages-
+Challenge 1 (200 XP)
+Spider Climb. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Web Sense.While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.
+Web Walker.The spider ignores movement restrictions caused by webbing.
+
+Actions
+Bite.Melee Weapon Attack:
++5 to hit, reach 5 ft., one creature.
+Hit:7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful
+one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+Web (Recharge 5-6). Ranged Weapon Attack:+5 to hit, range 30/60 ft.,
+one creature.Hit:The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+To snare its prey, a
+giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.
+
+Giant Toad
+Large beast, unaligned
+Armor Class 11
+Hit Points 39 (6d10 + 6)
+Speed 20 ft., swim 40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+15 (+2)  13 (+1)  13 (+1)  2 (−4)  10 (+0)  3 (−4)  
+
+Senses darkvision 30 ft., passive Perception 10
+Languages -
+Challenge 1 (200 XP)
+Amphibious. The toad can breathe air and water.
+Standing Leap. The toad’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+
+Actions
+Bite.Melee Weapon Attack:
++4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can’t bite another target.
+Swallow. The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad’s turns. The toad can have only one target swallowed at a time.  If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
+
+Giant Vulture
+Large beast, neutral evil
+Armor Class 10
+Hit Points 22 (3d10 + 6)
+Speed10 ft., fly 60 ft.
+STR      DEX      CON      INT     WIS      CHA     
+15 (+2)  10 (+0)  15 (+2)  6 (−2)  12 (+1)  7 (−2)  
+
+SkillsPerception +3
+Sensespassive Perception 13
+Languagesunderstands Common but can’t speak
+Challenge 1 (200 XP)
+Keen Sight and Smell.The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
+Pack Tactics. The vulture has advantage on an attack roll against a creature if at least one of the vulture’s allies is within 5 feet
+of the creature and the ally isn’t incapacitated.
+
+Actions
+Multiattack.The vulture makes two attacks: one with its beak and one with its talons.
+Beak.Melee Weapon Attack:+4 to hit, reach 5 ft., one target.
+Hit: 7 (2d4 + 2) piercing damage.
+Talons.MeleeWeapon Attack:+4 to hit, reach 5 ft., one target.
+Hit: 9 (2d6 + 2) slashing damage.A
+giant vulturehas advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.
+
+Giant Wasp
+Medium beast, unaligned
+Armor Class12
+Hit Points13 (3d8)
+Speed10 ft., fly 50 ft.
+STR      DEX      CON      INT     WIS      CHA     
+10 (+0)  14 (+2)  10 (+0)  1 (−5)  10 (+0)  3 (−4)  
+
+Sensespassive Perception 10
+Languages-
+Challenge 1/2 (100 XP)
+
+Actions
+Sting.Melee Weapon Attack:+4 to hit, reach 5 ft., one creature.
+Hit: 5 (1d6 + 2) piercing damage, and the
+target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+
+Giant Weasel
+Medium beast, unaligned
+Armor Class 13
+Hit Points 9 (2d8)
+Speed 40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+11 (+0)  16 (+3)  10 (+0)  4 (−3)  12 (+1)  5 (−3)  
+
+Skills Perception +3, Stealth +5
+Senses darkvision 60 ft., passive Perception 13
+Languages -
+Challenge 1/8 (25 XP)
+Keen Hearing and Smell. The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+Actions
+Bite.Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+
+Giant Wolf Spider
+Medium beast, unaligned
+Armor Class 13
+Hit Points 11 (2d8 + 2)
+Speed 40 ft., climb 40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+12 (+1)  16 (+3)  13 (+1)  3 (−4)  12 (+1)  4 (−3)  
+
+Skills Perception +3, Stealth +7
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 13
+Languages -
+Challenge 1/4 (50 XP)
+Spider Climb. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Web Sense.While in contact with a web, the spider knows the exact location of any other creature
+in contact with the same web.
+Web Walker.The spider ignores movement restrictions caused by webbing.
+
+Actions
+Bite.Melee Weapon Attack:
++3 to hit, reach 5 ft., one creature.
+Hit:4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+Smaller than a giant spider, a
+giant wolf spider
+hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
+
+Goat
+Medium beast, unaligned
+Armor Class10
+Hit Points4 (1d8)
+Speed40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+12 (+1)  10 (+0)  11 (+0)  2 (−4)  10 (+0)  5 (−3)  
+
+Sensespassive Perception 10
+Languages-
+Challenge 0 (10 XP)
+Charge.If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone.
+Sure--Footed.The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+Ram.Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
+
+Hawk
+Tiny beast, unaligned
+Armor Class 13
+Hit Points 1 (1d4 − 1)
+Speed 10 ft., fly 60 ft.
+STR     DEX      CON     INT     WIS      CHA     
+5 (−3)  16 (+3)  8 (−1)  2 (−4)  14 (+2)  6 (−2)  
+
+Skills Perception +4
+Senses passive Perception 14
+Languages -
+Challenge 0 (10 XP)
+Keen Sight. The hawk has advantage on Wisdom (Perception) checks that rely on sight.
+
+Actions
+Talons.Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
+
+Hunter Shark
+Large beast, unaligned
+Armor Class 12 (natural armor)
+Hit Points 45 (6d10 + 12)
+Speed 0 ft., swim 40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+18 (+4)  13 (+1)  15 (+2)  1 (−5)  10 (+0)  4 (−3)  
+
+Skills Perception +2
+Senses blindsight 30 ft., passive Perception 12
+Languages -
+Challenge 2 (450 XP)
+Blood Frenzy. The shark has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+Water Breathing. The shark can breathe only underwater.
+
+Actions
+Bite.Melee Weapon Attack:
++6 to hit, reach 5 ft., one target.
+Hit: 13 (2d8 + 4) piercing damage.Smaller than a giant shark but larger and fiercer than a reef shark, a
+hunter sharkhaunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.
+
+Hyena
+Medium beast, unaligned
+Armor Class11
+Hit Points5 (1d8 + 1)
+Speed50 ft.
+STR      DEX      CON      INT     WIS      CHA     
+11 (+0)  13 (+1)  12 (+1)  2 (−4)  12 (+1)  5 (−3)  
+
+SkillsPerception +3
+Sensespassive Perception 13
+Languages-
+Challenge 0 (10 XP)
+Pack Tactics. The hyena has advantage on an attack roll against a creature if at least one of the hyena’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+Actions
+Bite.Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
+Hit: 3 (1d6) piercing damage.
+
+Jackal
+Small beast, unaligned
+Armor Class12
+Hit Points3 (1d6)
+Speed40 ft.
+STR     DEX      CON      INT     WIS      CHA     
+8 (−1)  15 (+2)  11 (+0)  3 (−4)  12 (+1)  6 (−2)  
+
+SkillsPerception +3
+Senses passive Perception 13
+Languages-
+Challenge 0 (10 XP)
+Keen Hearing and Smell. The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Pack Tactics. The jackal has advantage on an attack roll against a creature if at least one of the jackal’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+Actions
+Bite.Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) piercing damage.
+
+Killer Whale
+Huge beast, unaligned
+Armor Class 12 (natural armor)
+Hit Points 90 (12d12 + 12)
+Speed 0 ft., swim 60 ft.
+STR      DEX      CON      INT     WIS      CHA     
+19 (+4)  10 (+0)  13 (+1)  3 (−4)  12 (+1)  7 (−2)  
+
+Skills Perception +3
+Senses blindsight 120 ft., passive Perception 13
+Languages -
+Challenge 3 (700 XP)
+Echolocation. The whale can’t use its blindsight while deafened.
+Hold Breath. The whale can hold its breath for 30 minutes.
+Keen Hearing. The whale has advantage on Wisdom (Perception) checks that rely on hearing.
+
+Actions
+Bite.Melee Weapon Attack:
++6 to hit, reach 5 ft., one target. Hit: 21 (5d6 + 4) piercing damage.
+
+Lion
+Large beast, unaligned
+Armor Class 12
+Hit Points 26 (4d10 + 4)
+Speed 50 ft.
+STR      DEX      CON      INT     WIS      CHA     
+17 (+3)  15 (+2)  13 (+1)  3 (−4)  12 (+1)  8 (−1)  
+
+SkillsPerception +3, Stealth +6
+Sensespassive Perception 13
+Languages-
+Challenge 1 (200 XP)
+Keen Smell.The lion has advantage on Wisdom (Perception) checks that rely on smell.
+Pack Tactics. The lion has advantage on an attack roll against a creature if at least one of the lion’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+Pounce.If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack
+against it as a bonus action.
+Running Leap. With a 10--foot running start, the lion can long jump up to 25 feet.
+
+Actions
+Bite.Melee Weapon Attack:+5 to hit, reach 5 ft., one target.
+Hit: 7 (1d8 + 3) piercing damage.
+Claw.Melee Weapon Attack:+5 to hit, reach 5 ft., one target.
+Hit:6 (1d6 + 3) slashing damage.
+
+Lizard
+Tiny beast, unaligned
+Armor Class10
+Hit Points2 (1d4)
+Speed20 ft., climb 20 ft.
+STR     DEX      CON      INT     WIS     CHA     
+2 (−4)  11 (+0)  10 (+0)  1 (−5)  8 (−1)  3 (−4)  
+
+Sensesdarkvision 30 ft., passive Perception 9
+Languages-
+Challenge 0 (10 XP)
+
+Actions
+Bite.Melee Weapon Attack:+0 to hit, reach 5 ft., one target.
+Hit: 1 piercing damage.
+
+Mammoth
+Huge beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 126 (11d12 + 55)
+Speed 40 ft.
+STR      DEX     CON      INT     WIS      CHA     
+24 (+7)  9 (−1)  21 (+5)  3 (−4)  11 (+0)  6 (−2)  
+
+Senses passive Perception 10
+Languages -
+Challenge 6 (2,300 XP)
+Trampling Charge. If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
+
+Actions
+Gore.Melee Weapon Attack:
++10 to hit, reach 10 ft., one target. Hit: 25 (4d8 + 7) piercing damage.
+Stomp.Melee Weapon Attack: +10 to hit, reach 5 ft., one prone creature. Hit: 29 (4d10 + 7) bludgeoning damage. A
+mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.
+
+Mastiff
+Medium beast, unaligned
+Armor Class 12
+Hit Points 5 (1d8 + 1)
+Speed 40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+13 (+1)  14 (+2)  12 (+1)  3 (−4)  12 (+1)  7 (−2)  
+
+Skills Perception +3
+Senses passive Perception 13
+Languages -
+Challenge 1/8 (25 XP)
+Keen Hearing and Smell.The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+Actions
+Bite.Melee Weapon Attack:+3 to hit, reach 5 ft., one target.
+Hit: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+Mastiffsare impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
+
+Mule
+Medium beast, unaligned
+Armor Class10
+Hit Points11 (2d8 + 2)
+Speed40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+14 (+2)  10 (+0)  13 (+1)  2 (−4)  10 (+0)  5 (−3)  
+
+Sensespassive Perception 10
+Languages-
+Challenge 1/8 (25 XP)
+Beast of Burden.The mule is considered to be a Large animal for the purpose of determining its carrying capacity.
+Sure--Footed.The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+
+Actions
+Hooves.Melee Weapon Attack:+2 to hit, reach 5 ft., one target.
+Hit: 4 (1d4 + 2) bludgeoning damage.
+
+Octopus
+Small beast, unaligned
+Armor Class12
+Hit Points3 (1d6)
+Speed5 ft., swim 30 ft.
+STR     DEX      CON      INT     WIS      CHA     
+4 (−3)  15 (+2)  11 (+0)  3 (−4)  10 (+0)  4 (−3)  
+
+Skills Perception +2, Stealth +4
+Senses darkvision 30 ft., passive Perception 12
+Languages -
+Challenge 0 (10 XP)
+
+Hold Breath. While out of water, the octopus can hold its breath for 30 minutes.
+Underwater Camouflage. The octopus has advantage on Dexterity (Stealth) checks made while underwater.
+Water Breathing. The octopus can breathe only underwater.
+
+Actions
+Tentacles.Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can’t use its tentacles on another target.
+Ink Cloud (Recharges after a Short or Long Rest). A 5--foot--radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
+
+Owl
+Tiny beast, unaligned
+Armor Class 11
+Hit Points 1 (1d4 − 1)
+Speed 5 ft., fly 60 ft.
+STR     DEX      CON     INT     WIS      CHA     
+3 (−4)  13 (+1)  8 (−1)  2 (−4)  12 (+1)  7 (−2)  
+
+Skills Perception +3, Stealth +3
+Senses darkvision 120 ft., passive Perception 13
+Languages -
+Challenge 0 (10 XP)
+Flyby. The owl doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+Keen Hearing and Sight. The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+
+Actions
+Talons.Melee Weapon Attack:+3 to hit, reach 5 ft., one target.
+Hit: 1 slashing damage.
+
+Panther
+Medium beast, unaligned
+Armor Class12
+Hit Points13 (3d8)
+Speed50 ft., climb 40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+14 (+2)  15 (+2)  10 (+0)  3 (−4)  14 (+2)  7 (−2)  
+
+SkillsPerception +4, Stealth +6
+Sensespassive Perception 14
+Languages-
+Challenge 1/4 (50 XP)
+Keen Smell.The panther has advantage on Wisdom (Perception) checks that rely on smell.
+Pounce.If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
+
+Actions
+Bite.Melee Weapon Attack:+4 to hit, reach 5 ft., one target.
+Hit: 5 (1d6 + 2) piercing damage.
+Claw.Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit:4 (1d4 + 2) slashing damage.
+
+Phase Spider
+Large monstrosity, unaligned
+Armor Class13 (natural armor)
+Hit Points32 (5d10 + 5)
+Speed30 ft., climb 30 ft.
+STR      DEX      CON      INT     WIS      CHA     
+15 (+2)  15 (+2)  12 (+1)  6 (−2)  10 (+0)  6 (−2)  
+
+SkillsStealth +6
+Sensesdarkvision 60 ft., passive Perception 10
+Languages-
+Challenge 3 (700 XP)
+Ethereal Jaunt. As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
+Spider Climb. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Web Walker. The spider ignores movement restrictions caused by webbing.
+
+Actions
+Bite.Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way. A
+phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.
+
+Poisonous Snake
+Tiny beast, unaligned
+Armor Class 13
+Hit Points 2 (1d4)
+Speed 30 ft., swim 30 ft.
+STR     DEX      CON      INT     WIS      CHA     
+2 (−4)  16 (+3)  11 (+0)  1 (−5)  10 (+0)  3 (−4)  
+
+Senses blindsight 10 ft., passive Perception 10
+Languages -
+Challenge 1/8 (25 XP)
+
+Actions
+Bite.Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
+
+Polar Bear
+Large beast, unaligned
+Armor Class12 (natural armor)
+Hit Points42 (5d10 + 15)
+Speed40 ft., swim 30 ft.
+STR      DEX      CON      INT     WIS      CHA     
+20 (+5)  10 (+0)  16 (+3)  2 (−4)  13 (+1)  7 (−2)  
+
+SkillsPerception +3
+Sensespassive Perception 13
+Languages-
+Challenge 2 (450 XP)
+Keen Smell.The bear has advantage on Wisdom (Perception) checks that rely on smell.
+
+Actions
+Multiattack.The bear makes two attacks: one with its bite and one with its claws.
+Bite.Melee Weapon Attack:+7 to hit, reach 5 ft., one target.
+Hit: 9 (1d8 + 5) piercing damage.
+Claws.Melee Weapon Attack:+7 to hit, reach 5 ft., one target.
+Hit: 12 (2d6 + 5) slashing damage.
+
+Pony
+Medium beast, unaligned
+Armor Class10
+Hit Points11 (2d8 + 2)
+Speed40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+15 (+2)  10 (+0)  13 (+1)  2 (−4)  11 (+0)  7 (−2)  
+
+Sensespassive Perception 10
+Languages-
+Challenge 1/8 (25 XP)
+
+Actions
+Hooves.Melee Weapon Attack:+4 to hit, reach 5 ft., one target.
+Hit: 7 (2d4 + 2) bludgeoning damage.
+
+Quipper
+Tiny beast, unaligned
+Armor Class 13
+Hit Points 1 (1d4 − 1)
+Speed 0 ft., swim 40 ft.
+STR     DEX      CON     INT     WIS     CHA     
+2 (−4)  16 (+3)  9 (−1)  1 (−5)  7 (−2)  2 (−4)  
+
+Senses darkvision 60 ft., passive Perception 8
+Languages -
+Challenge 0 (10 XP)
+Blood Frenzy. The quipper has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+
+Water Breathing. The quipper can breathe only underwater.
+
+Actions
+Bite.Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage. A
+quipper is a carnivorous fish with sharp teeth. Quippers can adapt to any aquatic environment, including cold subterranean lakes. They frequently gather in swarms; the statistics for a swarm of quippers appear later in this appendix.
+
+Rat
+Tiny beast, unaligned
+Armor Class 10
+Hit Points 1 (1d4 − 1)
+Speed 20 ft.
+STR     DEX      CON     INT     WIS      CHA     
+2 (−4)  11 (+0)  9 (−1)  2 (−4)  10 (+0)  4 (−3)  
+
+Senses darkvision 30 ft., passive Perception 10
+Languages -
+Challenge 0 (10 XP)
+Keen Smell. The rat has advantage on Wisdom (Perception) checks that rely on smell.
+
+Actions
+Bite.Melee Weapon Attack:+0 to hit, reach 5 ft., one target.
+Hit:1 piercing damage.
+
+Raven
+Tiny beast, unaligned
+Armor Class12
+Hit Points1 (1d4 − 1)
+Speed10 ft., fly 50 ft.
+STR     DEX      CON     INT     WIS      CHA     
+2 (−4)  14 (+2)  8 (−1)  2 (−4)  12 (+1)  6 (−2)  
+
+SkillsPerception +3
+Sensespassive Perception 13
+Languages-
+Challenge 0 (10 XP)
+Mimicry. The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
+
+Actions
+Beak.Melee Weapon Attack:+4 to hit, reach 5 ft., one target.
+Hit:1 piercing damage.
+
+Reef Shark
+Medium beast, unaligned
+Armor Class12 (natural armor)
+Hit Points22 (4d8 + 4)
+Speed0 ft., swim 40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+14 (+2)  13 (+1)  13 (+1)  1 (−5)  10 (+0)  4 (−3)  
+
+SkillsPerception +2
+Sensesblindsight 30 ft., passive Perception 12
+Languages-
+Challenge 1/2 (100 XP)
+Pack Tactics. The shark has advantage on an attack roll against a creature if at least one of the shark’s allies is
+within 5 feet of the creature and the ally isn’t incapacitated.
+Water Breathing. The shark can breathe only underwater.
+
+Actions
+Bite.Melee Weapon Attack:
++4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. Smaller than giant sharks and hunter sharks,
+reef sharks inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long.
+
+Rhinoceros
+Large beast, unaligned
+Armor Class 11 (natural armor)
+Hit Points 45 (6d10 + 12)
+Speed 40 ft.
+STR      DEX     CON      INT     WIS      CHA     
+21 (+5)  8 (−1)  15 (+2)  2 (−4)  12 (+1)  6 (−2)  
+
+Senses passive Perception 11
+Languages -
+Challenge 2 (450 XP)
+Charge. If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+
+Actions
+Gore.Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.
+
+Riding Horse
+Large beast, unaligned
+Armor Class 10
+Hit Points 13 (2d10 + 2)
+Speed 60 ft.
+STR      DEX      CON      INT     WIS      CHA     
+16 (+3)  10 (+0)  12 (+1)  2 (−4)  11 (+0)  7 (−2)  
+
+Sensespassive Perception 10
+Languages-
+Challenge 1/4 (50 XP)
+
+Actions
+Hooves.Melee Weapon Attack:+5 to hit, reach 5 ft., one target.
+Hit: 8 (2d4 + 3) bludgeoning damage.
+
+Saber--Toothed Tiger
+Large beast, unaligned
+Armor Class12
+Hit Points52 (7d10 + 14)
+Speed40 ft.
+STR      DEX      CON      INT     WIS      CHA     
+18 (+4)  14 (+2)  15 (+2)  3 (−4)  12 (+1)  8 (−1)  
+
+SkillsPerception +3, Stealth +6
+Sensespassive Perception 13
+Languages-
+Challenge 2 (450 XP)
+Keen Smell.The tiger has advantage on Wisdom (Perception) checks that rely on smell.
+Pounce.If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
+
+Actions
+Bite.Melee Weapon Attack:+6 to hit, reach 5 ft., one target.
+Hit:10 (1d10 + 5) piercing damage.
+Claw.Melee Weapon Attack:+6 to hit, reach 5 ft., one target.
+Hit:12 (2d6 + 5) slashing damage.
+
+Scorpion
+Tiny beast, unaligned
+Armor Class11 (natural armor)
+Hit Points1 (1d4 − 1)
+Speed10 ft.
+STR     DEX      CON     INT     WIS     CHA     
+2 (−4)  11 (+0)  8 (−1)  1 (−5)  8 (−1)  2 (−4)  
+
+Senses blindsight 10 ft., passive Perception 9
+Languages -
+Challenge 0 (10 XP)
+
+Actions
+Sting. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
+
+Sea Horse
+Tiny beast, unaligned
+Armor Class 11
+Hit Points 1 (1d4 − 1)
+Speed 0 ft., swim 20 ft.
+STR     DEX      CON     INT     WIS      CHA     
+1 (−5)  12 (+1)  8 (−1)  1 (−5)  10 (+0)  2 (−4)  
+
+Senses passive Perception 10
+Languages -
+Challenge 0 (0 XP)
+Water Breathing. The sea horse can breathe only underwater.
+
+Spider
+Tiny beast, unaligned
+Armor Class 12
+Hit Points 1 (1d4 − 1)
+Speed 20 ft., climb 20 ft.
+STR     DEX      CON     INT     WIS      CHA     
+2 (−4)  14 (+2)  8 (−1)  1 (−5)  10 (+0)  2 (−4)  
+
+Skills Stealth +4
+Senses darkvision 30 ft., passive Perception 10
+Languages -
+Challenge 0 (10 XP)
+Spider Climb. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Web Sense.While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.
+Web Walker.The spider ignores movement restrictions caused by webbing.
+
+Actions
+Bite.Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.

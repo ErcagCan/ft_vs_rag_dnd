@@ -1,0 +1,19 @@
+--- Comprehensive Latency Analysis (in seconds) ---
+
+--- Average Times ---
+        retrieval_time  query_time  end_to_end_time
+model
+BASE              0.00       14.48            14.48
+FT                0.00        8.89             8.89
+RAG               5.24       27.72            32.95
+FT+RAG            6.12       32.45            38.57
+
+Note: 'query_time' for RAG models is the generation time *after* retrieval.
+
+--- Distribution Summary (End-to-End Time) ---
+        count       mean       std        min        25%        50%        75%        max
+model
+BASE    280.0  14.478192  9.895650   0.827134   7.135344  12.665954  19.038124  56.848891
+FT      280.0   8.891096  5.349902   0.203854   4.989917   7.650799  11.645577  39.273273
+RAG     280.0  32.954829  9.487886  18.342083  26.179729  30.945498  37.538161  82.508777
+FT+RAG  280.0  38.567160  8.754520  21.487642  32.323849  37.190920  43.909378  72.360815
